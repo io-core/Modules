@@ -2,5 +2,6 @@ k,v1,v2
 package,Modules,v5.0.20190108
 from,github.com/io-core,whenever
 license,PROJECTOBERON,NW
+doc,core,manages compiled module loading and unloading in Oberon.
 r,[core]/Files,v5.0.0
 p,Modules.Mod,575e051e5f9415b0f33c643fa07474b3db4486b1b51d2ec32f6db14b4a9b5716
